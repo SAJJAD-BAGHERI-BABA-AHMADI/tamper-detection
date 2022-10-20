@@ -15,7 +15,7 @@ The source code includes, MY proposed particle swarm optimization (PSO), waterma
 
 If you find my paper and code useful or if you want to use it, Please cite my paper in your reference as following:
 
-Bagheri Baba Ahmadi, Sajjad, et al. "An intelligent and blind image watermarking scheme based on hybrid SVD transforms using human visual system characteristics." The Visual Computer 37.2 (2021): 385-409.
+Ahmadi, Sajjad Bagheri Baba, et al. "An intelligent and blind dual color image watermarking for authentication and copyright protection." Applied Intelligence 51.3 (2021): 1701-1732.
 
 Contact me if you have question: s.bagheri1367@yahoo.com
 
